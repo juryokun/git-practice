@@ -1,3 +1,3 @@
 # practice
 
-for practice ver.1.5
+git command practice
